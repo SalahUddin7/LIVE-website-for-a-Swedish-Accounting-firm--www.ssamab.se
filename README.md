@@ -1,4 +1,4 @@
-# accounting-firm-website-ssamab.se
+# LIVE website for a Swedish Accounting firm.
 This is a real life project for one of my friends accounting firm in Sweden. I built this website from scratch with help of of my mentor (since this is the first real life website- my mentor guided me and I want to give tremendous thanks for this). 
 
 Please visit below link to see the site live. 
